@@ -1,11 +1,27 @@
-### foo
+## タイトル
 
-foobar
+〜サブタイトル〜
 
 ---
 
-### bar
+### リスト
+
+- foo
+- bar
+- foobar
 
 +++
 
-### baz
+### ナンバーリスト
+
+1. foo
+2. bar
+3. foobar
+
++++
+
+### リストアニメ＝ション
+
+- foo |
+- bar |
+- foobar |
