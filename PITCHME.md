@@ -1,4 +1,4 @@
-# Git・GitHubの使い方
+## Git・GitHubの使い方
 
 ---
 
